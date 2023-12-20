@@ -1,0 +1,16 @@
+C:\Users\user452.CHENK\source\repos\zakaz\bin\Debug\zakaz.exe.config
+C:\Users\user452.CHENK\source\repos\zakaz\bin\Debug\zakaz.exe
+C:\Users\user452.CHENK\source\repos\zakaz\bin\Debug\zakaz.pdb
+C:\Users\user452.CHENK\source\repos\zakaz\obj\Debug\zakaz.csproj.AssemblyReference.cache
+C:\Users\user452.CHENK\source\repos\zakaz\obj\Debug\zakaz.Form1.resources
+C:\Users\user452.CHENK\source\repos\zakaz\obj\Debug\zakaz.Properties.Resources.resources
+C:\Users\user452.CHENK\source\repos\zakaz\obj\Debug\zakaz.csproj.GenerateResource.cache
+C:\Users\user452.CHENK\source\repos\zakaz\obj\Debug\zakaz.csproj.CoreCompileInputs.cache
+C:\Users\user452.CHENK\source\repos\zakaz\obj\Debug\zakaz.exe
+C:\Users\user452.CHENK\source\repos\zakaz\obj\Debug\zakaz.pdb
+C:\Users\user452.CHENK\source\repos\zakaz\obj\Debug\zakaz.Form2.resources
+C:\Users\user452.CHENK\source\repos\zakaz\obj\Debug\zakaz.Form3.resources
+C:\Users\user452.CHENK\source\repos\zakaz\obj\Debug\zakaz.Form4.resources
+C:\Users\user452.CHENK\source\repos\zakaz\obj\Debug\zakaz.Form5.resources
+C:\Users\user452.CHENK\source\repos\zakaz\obj\Debug\zakaz.Form6.resources
+C:\Users\user452.CHENK\source\repos\zakaz\obj\Debug\zakaz.Form7.resources
